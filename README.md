@@ -24,17 +24,6 @@ leetcode/
 └── heap/
 ```
 
-Each solution file starts with a short note:
-
-```python
-# Pattern: <technique used>
-# Time: O(?)  Space: O(?)
-# Mistakes: <what tripped me up>
-# Revisit: yes/no
-```
-
-and ends with local test cases I run before submitting.
-
 ## Progress
 
 | Category            | Solved | Total |
