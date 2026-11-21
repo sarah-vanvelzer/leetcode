@@ -1,5 +1,8 @@
+# Pattern: right & left swipes to get products up until specific index
 # Time: O(n)
 # Space: O(n)
+# Mistakes: recognizing right & left swipes
+# Revisit: yes
 
 class Solution:
     def productExceptSelf(self, nums: list[int]) -> list[int]:

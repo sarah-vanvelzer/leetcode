@@ -1,5 +1,7 @@
+# Pattern: O(1) call to see if in set
 # Time: O(n)
 # Space: O(n)
+# Revisit: no
 
 class Solution(object):
     def containsDuplicate(self, nums):

@@ -1,5 +1,7 @@
+# Pattern: O(1) call to check if in hashmap, subtraction to get desired search target
 # Time: O(n)
 # Space: O(n)
+# Revisit: no
 
 class Solution(object):
     def twoSum(self, nums, target):
