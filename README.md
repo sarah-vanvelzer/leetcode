@@ -43,12 +43,12 @@ Each solution file starts with a short note:
 | Dynamic Programming | 0      | 11    |
 | Graph               | 0      | 8     |
 | Interval            | 0      | 5     |
-| Linked List         | 0      | 6     |
+| Linked List         | 0      | 5     |
 | Matrix              | 0      | 4     |
 | String              | 0      | 10    |
 | Tree                | 0      | 14    |
 | Heap                | 0      | 3     |
-| **Total**           | **3**  | **76**|
+| **Total**           | **3**  | **75**|
 
 ## Approach
 
