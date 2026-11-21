@@ -28,18 +28,17 @@ Each solution file starts with a short note:
 
 ```python
 # Pattern: <technique used>
-# Time: O(?)  Space: O(?)
+# Time: O(?)
+# Space: O(?)
 # Mistakes: <what tripped me up>
 # Revisit: yes/no
 ```
-
-and ends with local test cases I run before submitting.
 
 ## Progress
 
 | Category            | Solved | Total |
 |---------------------|:------:|:-----:|
-| Array               | 0      | 10    |
+| Array               | 3      | 10    |
 | Binary              | 0      | 5     |
 | Dynamic Programming | 0      | 11    |
 | Graph               | 0      | 8     |
@@ -49,7 +48,7 @@ and ends with local test cases I run before submitting.
 | String              | 0      | 10    |
 | Tree                | 0      | 14    |
 | Heap                | 0      | 3     |
-| **Total**           | **0**  | **76**|
+| **Total**           | **3**  | **76**|
 
 ## Approach
 
