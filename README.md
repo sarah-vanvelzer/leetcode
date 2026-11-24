@@ -1,4 +1,4 @@
-# LeetCode – Blind 75
+# Blind 75
 
 My solutions and notes for the [Blind 75](https://www.teamblind.com/post/new-year-gift-curated-list-of-top-75-leetcode-questions-to-save-your-time-oam1oreu), a curated list of LeetCode problems covering the core patterns that show up in technical interviews.
 
