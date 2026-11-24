@@ -38,7 +38,7 @@ Each solution file starts with a short note:
 
 | Category            | Solved | Total |
 |---------------------|:------:|:-----:|
-| Array               | 6      | 10    |
+| Array               | 7      | 10    |
 | Binary              | 0      | 5     |
 | Dynamic Programming | 0      | 11    |
 | Graph               | 0      | 8     |
@@ -48,7 +48,7 @@ Each solution file starts with a short note:
 | String              | 0      | 10    |
 | Tree                | 0      | 14    |
 | Heap                | 0      | 3     |
-| **Total**           | **6**  | **75**|
+| **Total**           | **7**  | **75**|
 
 ## Approach
 
