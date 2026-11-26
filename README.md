@@ -38,17 +38,17 @@ Each solution file starts with a short note:
 
 | Category            | Solved | Total |
 |---------------------|:------:|:-----:|
-| Array               | 8      | 10    |
+| Array               | 4      | 10    |
 | Binary              | 0      | 5     |
 | Dynamic Programming | 0      | 11    |
-| Graph               | 0      | 8     |
+| Graph               | 1      | 8     |
 | Interval            | 0      | 5     |
 | Linked List         | 0      | 5     |
 | Matrix              | 0      | 4     |
-| String              | 0      | 10    |
+| String              | 3      | 10    |
 | Tree                | 0      | 14    |
-| Heap                | 0      | 3     |
-| **Total**           | **8**  | **75**|
+| Heap                | 1      | 3     |
+| **Total**           | **9**  | **75**|
 
 ## Approach
 
